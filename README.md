@@ -27,4 +27,5 @@
 ## 민우
 주차|날짜|문제이름|링크|풀이|
 |-|-|-|-|-|
-|Week 1|3/3|11052번: 카드 구매하기|https://www.acmicpc.net/problem/11052|Solved|
+|Week 1|3/3|11052번: 카드 구매하기|https://www.acmicpc.net/problem/11052|업데이트 예정|
+|Week 1|3/3|16194번: 카드 구매하기2|https://www.acmicpc.net/problem/16194|업데이트 예정|
