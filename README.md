@@ -17,7 +17,18 @@
 ## 태은
 주차|날짜|문제이름|링크|풀이|
 |-|-|-|-|-|
-|Week 1|3/1|test|test|test|
+|Week 1|3/3|1920: 수 찾기|https://www.acmicpc.net/problem/1920|없을 무|
+|Week 1|3/3|2750: 수 정렬하기|https://www.acmicpc.net/problem/2750|없을 무|
+|Week 1|3/3|2751: 수 정렬하기 2|https://www.acmicpc.net/problem/2751|없을 무|
+|Week 1|3/3|10989: 수 정렬하기 3|https://www.acmicpc.net/problem/10989|없을 무|
+|Week 1|3/3|10815: 숫자 카드|https://www.acmicpc.net/problem/10815|없을 무|
+|Week 1|3/3|10828: 스택|https://www.acmicpc.net/problem/10828|없을 무|
+|Week 1|3/3|10845: 큐|https://www.acmicpc.net/problem/10845|없을 무|
+|Week 1|3/3|10866: 뎈|https://www.acmicpc.net/problem/10866|없을 무|
+|Week 1|3/4|1406: 에디터|https://www.acmicpc.net/problem/1406|없을 무|
+|Week 1|3/4|1026: 보물|https://www.acmicpc.net/problem/1026|없을 무|
+|Week 1|3/4|11651: 좌표 정렬하기 2|https://www.acmicpc.net/problem/11651|없을 무|
+
 
 ## 수은
 주차|날짜|문제이름|링크|풀이|
