@@ -21,7 +21,7 @@
 |Week 1|3/3|AC|https://www.acmicpc.net/problem/5430|t.ly/EbaF|
 |Week 1|3/3|치킨배달|https://www.acmicpc.net/problem/15686|t.ly/Fa8M|
 |Week 1|3/4|좋은수열|https://www.acmicpc.net/problem/2661|t.ly/DC8U|
-|Week 1|3/4|좋은수열|https://www.acmicpc.net/problem/2485|t.ly/uba6|
+|Week 1|3/4||https://www.acmicpc.net/problem/2485|t.ly/uba6|
 
 
 
