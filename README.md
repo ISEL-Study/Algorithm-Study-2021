@@ -45,6 +45,14 @@
 | Week 1 | 3/4  |      1406: 에디터      | https://www.acmicpc.net/problem/1406  | 없을 무 |
 | Week 1 | 3/4  |       1026: 보물       | https://www.acmicpc.net/problem/1026  | 없을 무 |
 | Week 1 | 3/4  | 11651: 좌표 정렬하기 2 | https://www.acmicpc.net/problem/11651 | 없을 무 |
+| Week 1 | 3/6  | 10867: 중복 빼고 정렬하기 | https://www.acmicpc.net/problem/10867 | 없을 무 |
+| Week 1 | 3/6  | 10816: 숫자 카드 2 | https://www.acmicpc.net/problem/10816 | 없을 무 |
+| Week 1 | 3/6  | 9012: 괄호 | https://www.acmicpc.net/problem/9012 | 없을 무 |
+| Week 1 | 3/6  | 1874: 스택 수열 | https://www.acmicpc.net/problem/1874 | 없을 무 |
+| Week 1 | 3/6  | 1158: 요세푸스 문제 | https://www.acmicpc.net/problem/1158 | 없을 무 |
+| Week 1 | 3/6  | 1966: 프린터 큐 | https://www.acmicpc.net/problem/1966 | 없을 무 |
+| Week 1 | 3/  |  | https://www.acmicpc.net/problem/ | 없을 무 |
+
 
 ## 수은
 
