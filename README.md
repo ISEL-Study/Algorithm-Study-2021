@@ -74,3 +74,5 @@
 | Week 1 | 3/7  | 1912번: 연속합 | https://www.acmicpc.net/problem/1912 | 업데이트 예정 |
 | Week 1 | 3/7  | 1699번: 제곱수의 합 | https://www.acmicpc.net/problem/1699 | 업데이트 예정 |
 | Week 1 | 3/7  | 14501번: 퇴사 | https://www.acmicpc.net/problem/14501 | 업데이트 예정 |
+| Week 2 | 3/8  | 2225번: 합분해 | https://www.acmicpc.net/problem/2225 | 업데이트 예정 |
+| Week 2 | 3/8  | 15988번: 1, 2, 3 더하기 3 | https://www.acmicpc.net/problem/15988 | 업데이트 예정 |
