@@ -8,7 +8,6 @@ int main() {
     getline(cin, word);
 
     int count = 0;
-    bool space = false;
 
     if (word.empty()) {
         cout << count;
