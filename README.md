@@ -58,7 +58,8 @@
 
 |  주차  | 날짜 | 문제이름 | 링크 | 풀이 |
 | :----: | :--: | :------: | :--: | :--: |
-| Week 1 | 3/1  |   test   | test | test |
+| Week 1 | 3/5  |   1152번: 단어의 개수   | https://www.acmicpc.net/problem/1152 | https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/wordCount.cpp |
+| Week 1 | 3/7  |   2908번: 상수   | https://www.acmicpc.net/problem/2908 | https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/reverseNumber.cpp |
 
 ## 민우
 
