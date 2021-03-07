@@ -69,3 +69,7 @@
 | Week 1 | 3/5  |        10844번: 쉬운 계단 수        | https://www.acmicpc.net/problem/10844 | 업데이트 예정 |
 | Week 1 | 3/5  |           2193번: 이친수            | https://www.acmicpc.net/problem/2193  | 업데이트 예정 |
 | Week 1 | 3/5  | 11053번: 가장 긴 증가하는 부분 수열 | https://www.acmicpc.net/problem/11053 | 업데이트 예정 |
+| Week 1 | 3/7  | 14002번: 가장 긴 증가하는 부분 수열 4 | https://www.acmicpc.net/problem/14002 | 업데이트 예정 |
+| Week 1 | 3/7  | 1912번: 연속합 | https://www.acmicpc.net/problem/1912 | 업데이트 예정 |
+| Week 1 | 3/7  | 1699번: 제곱수의 합 | https://www.acmicpc.net/problem/1699 | 업데이트 예정 |
+| Week 1 | 3/7  | 14501번: 퇴사 | https://www.acmicpc.net/problem/14501 | 업데이트 예정 |
