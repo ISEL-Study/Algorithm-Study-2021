@@ -34,6 +34,8 @@
 | Week 1 | 3/7  |    텀 프로젝트     | https://www.acmicpc.net/problem/9466  | t.ly/hFuI |
 | Week 1 | 3/7  |     영역구하기     | https://www.acmicpc.net/problem/2583  | t.ly/4uI6 |
 | Week 2 | 3/8  |        치즈        | https://www.acmicpc.net/problem/2636  | t.ly/GEHa |
+| Week 2 | 3/8  |       동전1        | https://www.acmicpc.net/problem/2293  | t.ly/OR2g |
+| Week 2 | 3/8  |        로프        | https://www.acmicpc.net/problem/2217  | t.ly/sGwG |
 
 ## 태은
 
