@@ -58,7 +58,16 @@
 | Week 1 | 3/6  |      1874: 스택 수열      | https://www.acmicpc.net/problem/1874  | 없을 무 |
 | Week 1 | 3/6  |    1158: 요세푸스 문제    | https://www.acmicpc.net/problem/1158  | 없을 무 |
 | Week 1 | 3/6  |      1966: 프린터 큐      | https://www.acmicpc.net/problem/1966  | 없을 무 |
-| Week 1 |  3/  |                           |   https://www.acmicpc.net/problem/    | 없을 무 |
+| Week 2 | 3/7  |      5430: AC            | https://www.acmicpc.net/problem/5430  | 없을 무 |
+| Week 2 | 3/7  |        6603: 로또        |   https://www.acmicpc.net/problem/6603    | 없을 무 |
+| Week 2 | 3/8  |    1182: 부분수열의 합    |   https://www.acmicpc.net/problem/1182    | 없을 무 |
+| Week 2 | 3/8  |    9095: 1, 2, 3 더하기   |   https://www.acmicpc.net/problem/9095    | 없을 무 |
+| Week 2 | 3/9  |     9663: N-Queen        |   https://www.acmicpc.net/problem/9663    | 없을 무 |
+| Week 2 | 3/9  |      1037: 약수           |   https://www.acmicpc.net/problem/1037    | 없을 무 |
+| Week 2 | 3/9  |      1978: 소수 찾기      |   https://www.acmicpc.net/problem/1978    | 없을 무 |
+| Week 2 | 3/9  |      1929: 소수 구하기    |   https://www.acmicpc.net/problem/1929    | 없을 무 |
+| Week 2 |  3/  |                          |   https://www.acmicpc.net/problem/    | 없을 무 |
+
 
 ## 수은
 
