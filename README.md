@@ -36,6 +36,10 @@
 | Week 2 | 3/8  |        치즈        | https://www.acmicpc.net/problem/2636  | t.ly/GEHa |
 | Week 2 | 3/8  |       동전1        | https://www.acmicpc.net/problem/2293  | t.ly/OR2g |
 | Week 2 | 3/8  |        로프        | https://www.acmicpc.net/problem/2217  | t.ly/sGwG |
+| Week 2 | 3/9  |       부등호       | https://www.acmicpc.net/problem/2529  | t.ly/NiN7 |
+| Week 2 | 3/9  |    나무 자르기     | https://www.acmicpc.net/problem/2805  | t.ly/OEZy |
+| Week 2 | 3/10 |    랜선 자르기     | https://www.acmicpc.net/problem/1654  | t.ly/Zjqa |
+| Week 2 | 3/10 |        예산        | https://www.acmicpc.net/problem/2512  | t.ly/4t7s |
 
 ## 태은
 
@@ -58,16 +62,15 @@
 | Week 1 | 3/6  |      1874: 스택 수열      | https://www.acmicpc.net/problem/1874  | 없을 무 |
 | Week 1 | 3/6  |    1158: 요세푸스 문제    | https://www.acmicpc.net/problem/1158  | 없을 무 |
 | Week 1 | 3/6  |      1966: 프린터 큐      | https://www.acmicpc.net/problem/1966  | 없을 무 |
-| Week 2 | 3/7  |      5430: AC            | https://www.acmicpc.net/problem/5430  | 없을 무 |
-| Week 2 | 3/7  |        6603: 로또        |   https://www.acmicpc.net/problem/6603    | 없을 무 |
-| Week 2 | 3/8  |    1182: 부분수열의 합    |   https://www.acmicpc.net/problem/1182    | 없을 무 |
-| Week 2 | 3/8  |    9095: 1, 2, 3 더하기   |   https://www.acmicpc.net/problem/9095    | 없을 무 |
-| Week 2 | 3/9  |     9663: N-Queen        |   https://www.acmicpc.net/problem/9663    | 없을 무 |
-| Week 2 | 3/9  |      1037: 약수           |   https://www.acmicpc.net/problem/1037    | 없을 무 |
-| Week 2 | 3/9  |      1978: 소수 찾기      |   https://www.acmicpc.net/problem/1978    | 없을 무 |
-| Week 2 | 3/9  |      1929: 소수 구하기    |   https://www.acmicpc.net/problem/1929    | 없을 무 |
-| Week 2 |  3/  |                          |   https://www.acmicpc.net/problem/    | 없을 무 |
-
+| Week 2 | 3/7  |         5430: AC          | https://www.acmicpc.net/problem/5430  | 없을 무 |
+| Week 2 | 3/7  |        6603: 로또         | https://www.acmicpc.net/problem/6603  | 없을 무 |
+| Week 2 | 3/8  |    1182: 부분수열의 합    | https://www.acmicpc.net/problem/1182  | 없을 무 |
+| Week 2 | 3/8  |   9095: 1, 2, 3 더하기    | https://www.acmicpc.net/problem/9095  | 없을 무 |
+| Week 2 | 3/9  |       9663: N-Queen       | https://www.acmicpc.net/problem/9663  | 없을 무 |
+| Week 2 | 3/9  |        1037: 약수         | https://www.acmicpc.net/problem/1037  | 없을 무 |
+| Week 2 | 3/9  |      1978: 소수 찾기      | https://www.acmicpc.net/problem/1978  | 없을 무 |
+| Week 2 | 3/9  |     1929: 소수 구하기     | https://www.acmicpc.net/problem/1929  | 없을 무 |
+| Week 2 |  3/  |                           |   https://www.acmicpc.net/problem/    | 없을 무 |
 
 ## 수은
 
@@ -91,7 +94,7 @@
 | Week 1 | 3/7  |             14501번: 퇴사             | https://www.acmicpc.net/problem/14501 | 업데이트 예정 |
 | Week 2 | 3/8  |            2225번: 합분해             | https://www.acmicpc.net/problem/2225  | 업데이트 예정 |
 | Week 2 | 3/8  |       15988번: 1, 2, 3 더하기 3       | https://www.acmicpc.net/problem/15988 | 업데이트 예정 |
-| Week 2 | 3/10  |       1149번: RGB거리       | https://www.acmicpc.net/problem/1149 | 업데이트 예정 |
-| Week 2 | 3/10  |       1309번: 동물원       | https://www.acmicpc.net/problem/1309 | 업데이트 예정 |
-| Week 2 | 3/10  |       11057번: 오르막 수       | https://www.acmicpc.net/problem/11057 | 업데이트 예정 |
-| Week 2 | 3/10  |       2156번: 포도주        | https://www.acmicpc.net/problem/2156 | 업데이트 예정 |
+| Week 2 | 3/10 |            1149번: RGB거리            | https://www.acmicpc.net/problem/1149  | 업데이트 예정 |
+| Week 2 | 3/10 |            1309번: 동물원             | https://www.acmicpc.net/problem/1309  | 업데이트 예정 |
+| Week 2 | 3/10 |          11057번: 오르막 수           | https://www.acmicpc.net/problem/11057 | 업데이트 예정 |
+| Week 2 | 3/10 |            2156번: 포도주             | https://www.acmicpc.net/problem/2156  | 업데이트 예정 |
