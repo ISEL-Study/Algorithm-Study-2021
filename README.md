@@ -94,4 +94,4 @@
 | Week 2 | 3/10  |       1149번: RGB거리       | https://www.acmicpc.net/problem/1149 | 업데이트 예정 |
 | Week 2 | 3/10  |       1309번: 동물원       | https://www.acmicpc.net/problem/1309 | 업데이트 예정 |
 | Week 2 | 3/10  |       11057번: 오르막 수       | https://www.acmicpc.net/problem/11057 | 업데이트 예정 |
-| Week 2 | 3/10  |       2156번: 오르막 수       | https://www.acmicpc.net/problem/2156 | 업데이트 예정 |
+| Week 2 | 3/10  |       2156번: 포도주        | https://www.acmicpc.net/problem/2156 | 업데이트 예정 |
