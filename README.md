@@ -40,6 +40,11 @@
 | Week 2 | 3/9  |    나무 자르기     | https://www.acmicpc.net/problem/2805  | t.ly/OEZy |
 | Week 2 | 3/10 |    랜선 자르기     | https://www.acmicpc.net/problem/1654  | t.ly/Zjqa |
 | Week 2 | 3/10 |        예산        | https://www.acmicpc.net/problem/2512  | t.ly/4t7s |
+| Week 2 | 3/11 |   카드 정렬하기    | https://www.acmicpc.net/problem/1715  | t.ly/hFV9 |
+| Week 2 | 3/11 |      보석도둑      | https://www.acmicpc.net/problem/1202  | t.ly/9orS |
+| Week 2 | 3/11 |    공유기 설치     | https://www.acmicpc.net/problem/2512  | t.ly/8nsV |
+| Week 2 | 3/12 |       알파벳       | https://www.acmicpc.net/problem/1987  | t.ly/4guq |
+| Week 2 | 3/13 |  MooTube (Silver)  | https://www.acmicpc.net/problem/15591 | t.ly/4t7s |
 
 ## 태은
 
@@ -74,12 +79,12 @@
 
 ## 수은
 
-|  주차  | 날짜 |      문제이름       |                 링크                 |                                         풀이                                         |
-| :----: | :--: | :-----------------: | :----------------------------------: | :----------------------------------------------------------------------------------: |
-| Week 1 | 3/5  | 1152번: 단어의 개수 | https://www.acmicpc.net/problem/1152 |   https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/wordCount.cpp   |
-| Week 1 | 3/7  |    2908번: 상수     | https://www.acmicpc.net/problem/2908 | https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/reverseNumber.cpp |
-| Week 2 | 3/12  | 5622번: 다이얼 | https://www.acmicpc.net/problem/5622 |   https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/dialTime.cpp   |   
-| Week 2 | 3/12  |  2941: 크로아티아 알파벳  |   https://www.acmicpc.net/problem/2941    | https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/croatianAlphabet.cpp |
+|  주차  | 날짜 |        문제이름         |                 링크                 |                                          풀이                                           |
+| :----: | :--: | :---------------------: | :----------------------------------: | :-------------------------------------------------------------------------------------: |
+| Week 1 | 3/5  |   1152번: 단어의 개수   | https://www.acmicpc.net/problem/1152 |    https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/wordCount.cpp     |
+| Week 1 | 3/7  |      2908번: 상수       | https://www.acmicpc.net/problem/2908 |  https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/reverseNumber.cpp   |
+| Week 2 | 3/12 |     5622번: 다이얼      | https://www.acmicpc.net/problem/5622 |     https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/dialTime.cpp     |
+| Week 2 | 3/12 | 2941: 크로아티아 알파벳 | https://www.acmicpc.net/problem/2941 | https://github.com/ISEL-Study/Algorithm-Study-2021/blob/main/Sueun/croatianAlphabet.cpp |
 
 ## 민우
 
@@ -100,4 +105,4 @@
 | Week 2 | 3/10 |            1309번: 동물원             | https://www.acmicpc.net/problem/1309  | 업데이트 예정 |
 | Week 2 | 3/10 |          11057번: 오르막 수           | https://www.acmicpc.net/problem/11057 | 업데이트 예정 |
 | Week 2 | 3/10 |            2156번: 포도주             | https://www.acmicpc.net/problem/2156  | 업데이트 예정 |
-| Week 2 | 3/12 |            1932번: 정수 삼각형             | https://www.acmicpc.net/problem/1932  | 업데이트 예정 |
+| Week 2 | 3/12 |          1932번: 정수 삼각형          | https://www.acmicpc.net/problem/1932  | 업데이트 예정 |
