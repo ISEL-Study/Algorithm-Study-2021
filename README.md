@@ -45,6 +45,9 @@
 | Week 2 | 3/11 |    공유기 설치     | https://www.acmicpc.net/problem/2512  | t.ly/8nsV |
 | Week 2 | 3/12 |       알파벳       | https://www.acmicpc.net/problem/1987  | t.ly/4guq |
 | Week 2 | 3/13 |  MooTube (Silver)  | https://www.acmicpc.net/problem/15591 | t.ly/4t7s |
+| Week 2 | 3/13 |    로봇 청소기     | https://www.acmicpc.net/problem/14503 | t.ly/wCJU |
+| Week 2 | 3/14 |    연료채우기     | https://www.acmicpc.net/problem/1826 | t.ly/V64t |
+| Week 2 | 3/14 |    촌수계산     | https://www.acmicpc.net/problem/2644 | t.ly/ulaa |
 
 ## 태은
 
