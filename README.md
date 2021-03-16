@@ -112,4 +112,9 @@
 | Week 3 | 3/15 |     11055번: 가장 큰 증가 부분 수열    | https://www.acmicpc.net/problem/11055  | 업데이트 예정 |
 | Week 3 | 3/15 |     11722번: 가장 긴 감소하는 부분 수열    | https://www.acmicpc.net/problem/11722  | 업데이트 예정 |
 | Week 3 | 3/15 |     11722번: 가장 긴 감소하는 부분 수열    | https://www.acmicpc.net/problem/11722  | 업데이트 예정 |
+| Week 3 | 3/16 |     10845번: 큐    | https://www.acmicpc.net/problem/10845  | 업데이트 예정 |
+| Week 3 | 3/16 |     10866번: 덱    | https://www.acmicpc.net/problem/10866  | 업데이트 예정 |
+| Week 3 | 3/16 |     13023번: ABCDE    | https://www.acmicpc.net/problem/13023  | 업데이트 예정 |
+| Week 3 | 3/16 |     1260번: DFS와 BFS    | https://www.acmicpc.net/problem/1260  | 업데이트 예정 |
+
 
