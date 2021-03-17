@@ -48,6 +48,10 @@
 | Week 2 | 3/13 |    로봇 청소기     | https://www.acmicpc.net/problem/14503 | t.ly/wCJU |
 | Week 2 | 3/14 |    연료채우기     | https://www.acmicpc.net/problem/1826 | t.ly/V64t |
 | Week 2 | 3/14 |    촌수계산     | https://www.acmicpc.net/problem/2644 | t.ly/ulaa |
+| Week 3 | 3/15 |    주유소    | https://www.acmicpc.net/problem/13305 | t.ly/NWuT |
+| Week 3 | 3/17 |    중량제한    | https://www.acmicpc.net/problem/1939 | t.ly/yL05 |
+| Week 3 | 3/17 |   입국심사    | https://www.acmicpc.net/problem/3079 | t.ly/oH72 |
+
 
 ## 태은
 
