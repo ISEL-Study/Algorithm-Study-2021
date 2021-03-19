@@ -51,6 +51,10 @@
 | Week 3 | 3/15 |    주유소    | https://www.acmicpc.net/problem/13305 | t.ly/NWuT |
 | Week 3 | 3/17 |    중량제한    | https://www.acmicpc.net/problem/1939 | t.ly/yL05 |
 | Week 3 | 3/17 |   입국심사    | https://www.acmicpc.net/problem/3079 | t.ly/oH72 |
+| Week 3 | 3/18 |   점프    | https://www.acmicpc.net/problem/1890 | t.ly/E1eQ |
+| Week 3 | 3/19 |   내리막 길    | https://www.acmicpc.net/problem/1520 | t.ly/Up88 |
+| Week 3 | 3/19 |   여행가자    | https://www.acmicpc.net/problem/1976 | t.ly/M55Y |
+| Week 3 | 3/19 |   친구비    | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
 
 
 ## 태은
