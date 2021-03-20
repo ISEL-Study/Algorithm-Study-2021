@@ -127,3 +127,4 @@
 | Week 3 | 3/17 |     13398번: 연속합 2    | https://www.acmicpc.net/problem/13398  | 업데이트 예정 |
 | Week 3 | 3/17 |     11724번: 연결 요소의 개수    | https://www.acmicpc.net/problem/11724  | 업데이트 예정 |
 | Week 3 | 3/19 |     프로그래머스: 카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842  | 업데이트 예정 |
+| Week 3 | 3/20 |     프로그래머스: 문자열 압축    | https://programmers.co.kr/learn/courses/30/lessons/60057  | 업데이트 예정 |
