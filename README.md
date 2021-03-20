@@ -129,3 +129,4 @@
 | Week 3 | 3/19 |     프로그래머스: 카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842  | 업데이트 예정 |
 | Week 3 | 3/20 |     프로그래머스: 문자열 압축    | https://programmers.co.kr/learn/courses/30/lessons/60057  | 업데이트 예정 |
 | Week 3 | 3/20 |     프로그래머스: 괄호 변환    | https://programmers.co.kr/learn/courses/30/lessons/60058  | 업데이트 예정 |
+| Week 3 | 3/20 |     13460번: 구슬 탈출 2    | https://www.acmicpc.net/problem/13460  | 업데이트 예정 |
