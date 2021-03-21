@@ -46,16 +46,16 @@
 | Week 2 | 3/12 |       알파벳       | https://www.acmicpc.net/problem/1987  | t.ly/4guq |
 | Week 2 | 3/13 |  MooTube (Silver)  | https://www.acmicpc.net/problem/15591 | t.ly/4t7s |
 | Week 2 | 3/13 |    로봇 청소기     | https://www.acmicpc.net/problem/14503 | t.ly/wCJU |
-| Week 2 | 3/14 |    연료채우기     | https://www.acmicpc.net/problem/1826 | t.ly/V64t |
-| Week 2 | 3/14 |    촌수계산     | https://www.acmicpc.net/problem/2644 | t.ly/ulaa |
-| Week 3 | 3/15 |    주유소    | https://www.acmicpc.net/problem/13305 | t.ly/NWuT |
-| Week 3 | 3/17 |    중량제한    | https://www.acmicpc.net/problem/1939 | t.ly/yL05 |
-| Week 3 | 3/17 |   입국심사    | https://www.acmicpc.net/problem/3079 | t.ly/oH72 |
-| Week 3 | 3/18 |   점프    | https://www.acmicpc.net/problem/1890 | t.ly/E1eQ |
-| Week 3 | 3/19 |   내리막 길    | https://www.acmicpc.net/problem/1520 | t.ly/Up88 |
-| Week 3 | 3/19 |   여행가자    | https://www.acmicpc.net/problem/1976 | t.ly/M55Y |
-| Week 3 | 3/19 |   친구비    | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
-
+| Week 2 | 3/14 |     연료채우기     | https://www.acmicpc.net/problem/1826  | t.ly/V64t |
+| Week 2 | 3/14 |      촌수계산      | https://www.acmicpc.net/problem/2644  | t.ly/ulaa |
+| Week 3 | 3/15 |       주유소       | https://www.acmicpc.net/problem/13305 | t.ly/NWuT |
+| Week 3 | 3/17 |      중량제한      | https://www.acmicpc.net/problem/1939  | t.ly/yL05 |
+| Week 3 | 3/17 |      입국심사      | https://www.acmicpc.net/problem/3079  | t.ly/oH72 |
+| Week 3 | 3/18 |        점프        | https://www.acmicpc.net/problem/1890  | t.ly/E1eQ |
+| Week 3 | 3/19 |     내리막 길      | https://www.acmicpc.net/problem/1520  | t.ly/Up88 |
+| Week 3 | 3/19 |      여행가자      | https://www.acmicpc.net/problem/1976  | t.ly/M55Y |
+| Week 3 | 3/19 |       친구비       | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
+| Week 3 | 3/21 |   친구 네트워크    | https://www.acmicpc.net/problem/4195  |    TBU    |
 
 ## 태은
 
@@ -99,35 +99,35 @@
 
 ## 민우
 
-|  주차  | 날짜 |               문제이름                |                 링크                  |     풀이      |
-| :----: | :--: | :-----------------------------------: | :-----------------------------------: | :-----------: |
-| Week 1 | 3/3  |        11052번: 카드 구매하기         | https://www.acmicpc.net/problem/11052 | 업데이트 예정 |
-| Week 1 | 3/3  |        16194번: 카드 구매하기2        | https://www.acmicpc.net/problem/16194 | 업데이트 예정 |
-| Week 1 | 3/5  |         10844번: 쉬운 계단 수         | https://www.acmicpc.net/problem/10844 | 업데이트 예정 |
-| Week 1 | 3/5  |            2193번: 이친수             | https://www.acmicpc.net/problem/2193  | 업데이트 예정 |
-| Week 1 | 3/5  |  11053번: 가장 긴 증가하는 부분 수열  | https://www.acmicpc.net/problem/11053 | 업데이트 예정 |
-| Week 1 | 3/7  | 14002번: 가장 긴 증가하는 부분 수열 4 | https://www.acmicpc.net/problem/14002 | 업데이트 예정 |
-| Week 1 | 3/7  |            1912번: 연속합             | https://www.acmicpc.net/problem/1912  | 업데이트 예정 |
-| Week 1 | 3/7  |          1699번: 제곱수의 합          | https://www.acmicpc.net/problem/1699  | 업데이트 예정 |
-| Week 1 | 3/7  |             14501번: 퇴사             | https://www.acmicpc.net/problem/14501 | 업데이트 예정 |
-| Week 2 | 3/8  |            2225번: 합분해             | https://www.acmicpc.net/problem/2225  | 업데이트 예정 |
-| Week 2 | 3/8  |       15988번: 1, 2, 3 더하기 3       | https://www.acmicpc.net/problem/15988 | 업데이트 예정 |
-| Week 2 | 3/10 |            1149번: RGB거리            | https://www.acmicpc.net/problem/1149  | 업데이트 예정 |
-| Week 2 | 3/10 |            1309번: 동물원             | https://www.acmicpc.net/problem/1309  | 업데이트 예정 |
-| Week 2 | 3/10 |          11057번: 오르막 수           | https://www.acmicpc.net/problem/11057 | 업데이트 예정 |
-| Week 2 | 3/10 |            2156번: 포도주             | https://www.acmicpc.net/problem/2156  | 업데이트 예정 |
-| Week 2 | 3/12 |          1932번: 정수 삼각형          | https://www.acmicpc.net/problem/1932  | 업데이트 예정 |
-| Week 3 | 3/15 |     11055번: 가장 큰 증가 부분 수열    | https://www.acmicpc.net/problem/11055  | 업데이트 예정 |
-| Week 3 | 3/15 |     11722번: 가장 긴 감소하는 부분 수열    | https://www.acmicpc.net/problem/11722  | 업데이트 예정 |
-| Week 3 | 3/15 |     11722번: 가장 긴 감소하는 부분 수열    | https://www.acmicpc.net/problem/11722  | 업데이트 예정 |
-| Week 3 | 3/16 |     10845번: 큐    | https://www.acmicpc.net/problem/10845  | 업데이트 예정 |
-| Week 3 | 3/16 |     10866번: 덱    | https://www.acmicpc.net/problem/10866  | 업데이트 예정 |
-| Week 3 | 3/16 |     13023번: ABCDE    | https://www.acmicpc.net/problem/13023  | 업데이트 예정 |
-| Week 3 | 3/16 |     1260번: DFS와 BFS    | https://www.acmicpc.net/problem/1260  | 업데이트 예정 |
-| Week 3 | 3/17 |     13398번: 연속합 2    | https://www.acmicpc.net/problem/13398  | 업데이트 예정 |
-| Week 3 | 3/17 |     11724번: 연결 요소의 개수    | https://www.acmicpc.net/problem/11724  | 업데이트 예정 |
-| Week 3 | 3/19 |     프로그래머스: 카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842  | 업데이트 예정 |
-| Week 3 | 3/20 |     프로그래머스: 문자열 압축    | https://programmers.co.kr/learn/courses/30/lessons/60057  | 업데이트 예정 |
-| Week 3 | 3/20 |     프로그래머스: 괄호 변환    | https://programmers.co.kr/learn/courses/30/lessons/60058  | 업데이트 예정 |
-| Week 3 | 3/21 |     13460번: 구슬 탈출 2    | https://www.acmicpc.net/problem/13460  | 업데이트 예정 |
-| Week 3 | 3/21 |     14888번: 연산자 끼워넣기    | https://www.acmicpc.net/problem/14888  | 업데이트 예정 |
+|  주차  | 날짜 |               문제이름                |                           링크                           |     풀이      |
+| :----: | :--: | :-----------------------------------: | :------------------------------------------------------: | :-----------: |
+| Week 1 | 3/3  |        11052번: 카드 구매하기         |          https://www.acmicpc.net/problem/11052           | 업데이트 예정 |
+| Week 1 | 3/3  |        16194번: 카드 구매하기2        |          https://www.acmicpc.net/problem/16194           | 업데이트 예정 |
+| Week 1 | 3/5  |         10844번: 쉬운 계단 수         |          https://www.acmicpc.net/problem/10844           | 업데이트 예정 |
+| Week 1 | 3/5  |            2193번: 이친수             |           https://www.acmicpc.net/problem/2193           | 업데이트 예정 |
+| Week 1 | 3/5  |  11053번: 가장 긴 증가하는 부분 수열  |          https://www.acmicpc.net/problem/11053           | 업데이트 예정 |
+| Week 1 | 3/7  | 14002번: 가장 긴 증가하는 부분 수열 4 |          https://www.acmicpc.net/problem/14002           | 업데이트 예정 |
+| Week 1 | 3/7  |            1912번: 연속합             |           https://www.acmicpc.net/problem/1912           | 업데이트 예정 |
+| Week 1 | 3/7  |          1699번: 제곱수의 합          |           https://www.acmicpc.net/problem/1699           | 업데이트 예정 |
+| Week 1 | 3/7  |             14501번: 퇴사             |          https://www.acmicpc.net/problem/14501           | 업데이트 예정 |
+| Week 2 | 3/8  |            2225번: 합분해             |           https://www.acmicpc.net/problem/2225           | 업데이트 예정 |
+| Week 2 | 3/8  |       15988번: 1, 2, 3 더하기 3       |          https://www.acmicpc.net/problem/15988           | 업데이트 예정 |
+| Week 2 | 3/10 |            1149번: RGB거리            |           https://www.acmicpc.net/problem/1149           | 업데이트 예정 |
+| Week 2 | 3/10 |            1309번: 동물원             |           https://www.acmicpc.net/problem/1309           | 업데이트 예정 |
+| Week 2 | 3/10 |          11057번: 오르막 수           |          https://www.acmicpc.net/problem/11057           | 업데이트 예정 |
+| Week 2 | 3/10 |            2156번: 포도주             |           https://www.acmicpc.net/problem/2156           | 업데이트 예정 |
+| Week 2 | 3/12 |          1932번: 정수 삼각형          |           https://www.acmicpc.net/problem/1932           | 업데이트 예정 |
+| Week 3 | 3/15 |    11055번: 가장 큰 증가 부분 수열    |          https://www.acmicpc.net/problem/11055           | 업데이트 예정 |
+| Week 3 | 3/15 |  11722번: 가장 긴 감소하는 부분 수열  |          https://www.acmicpc.net/problem/11722           | 업데이트 예정 |
+| Week 3 | 3/15 |  11722번: 가장 긴 감소하는 부분 수열  |          https://www.acmicpc.net/problem/11722           | 업데이트 예정 |
+| Week 3 | 3/16 |              10845번: 큐              |          https://www.acmicpc.net/problem/10845           | 업데이트 예정 |
+| Week 3 | 3/16 |              10866번: 덱              |          https://www.acmicpc.net/problem/10866           | 업데이트 예정 |
+| Week 3 | 3/16 |            13023번: ABCDE             |          https://www.acmicpc.net/problem/13023           | 업데이트 예정 |
+| Week 3 | 3/16 |           1260번: DFS와 BFS           |           https://www.acmicpc.net/problem/1260           | 업데이트 예정 |
+| Week 3 | 3/17 |           13398번: 연속합 2           |          https://www.acmicpc.net/problem/13398           | 업데이트 예정 |
+| Week 3 | 3/17 |       11724번: 연결 요소의 개수       |          https://www.acmicpc.net/problem/11724           | 업데이트 예정 |
+| Week 3 | 3/19 |          프로그래머스: 카펫           | https://programmers.co.kr/learn/courses/30/lessons/42842 | 업데이트 예정 |
+| Week 3 | 3/20 |       프로그래머스: 문자열 압축       | https://programmers.co.kr/learn/courses/30/lessons/60057 | 업데이트 예정 |
+| Week 3 | 3/20 |        프로그래머스: 괄호 변환        | https://programmers.co.kr/learn/courses/30/lessons/60058 | 업데이트 예정 |
+| Week 3 | 3/21 |         13460번: 구슬 탈출 2          |          https://www.acmicpc.net/problem/13460           | 업데이트 예정 |
+| Week 3 | 3/21 |       14888번: 연산자 끼워넣기        |          https://www.acmicpc.net/problem/14888           | 업데이트 예정 |
