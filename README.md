@@ -56,6 +56,10 @@
 | Week 3 | 3/19 |      여행가자      | https://www.acmicpc.net/problem/1976  | t.ly/M55Y |
 | Week 3 | 3/19 |       친구비       | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
 | Week 3 | 3/21 |   친구 네트워크    | https://www.acmicpc.net/problem/4195  |    TBU    |
+| Week 3 | 3/22 |        공항        | https://www.acmicpc.net/problem/10775 |    TBU    |
+| Week 3 | 3/22 |  최소비용 구하기   | https://www.acmicpc.net/problem/1916  |    TBU    |
+| Week 3 | 3/22 |      알고스팟      | https://www.acmicpc.net/problem/1216  |    TBU    |
+| Week 3 | 3/22 |        파티        | https://www.acmicpc.net/problem/1238  |    TBU    |
 
 ## 태은
 
@@ -131,5 +135,5 @@
 | Week 3 | 3/20 |        프로그래머스: 괄호 변환        | https://programmers.co.kr/learn/courses/30/lessons/60058 | 업데이트 예정 |
 | Week 3 | 3/21 |         13460번: 구슬 탈출 2          |          https://www.acmicpc.net/problem/13460           | 업데이트 예정 |
 | Week 3 | 3/21 |       14888번: 연산자 끼워넣기        |          https://www.acmicpc.net/problem/14888           | 업데이트 예정 |
-| Week 4 | 3/23 |       프로그래머스: 순위 검색        |https://programmers.co.kr/learn/courses/30/lessons/72412| 업데이트 예정 |
-| Week 4 | 3/23 |       프로그래머스: 오픈채팅방        |https://programmers.co.kr/learn/courses/30/lessons/42888| 업데이트 예정 |
+| Week 4 | 3/23 |        프로그래머스: 순위 검색        | https://programmers.co.kr/learn/courses/30/lessons/72412 | 업데이트 예정 |
+| Week 4 | 3/23 |       프로그래머스: 오픈채팅방        | https://programmers.co.kr/learn/courses/30/lessons/42888 | 업데이트 예정 |
