@@ -56,10 +56,10 @@
 | Week 3 | 3/19 |      여행가자      | https://www.acmicpc.net/problem/1976  | t.ly/M55Y |
 | Week 3 | 3/19 |       친구비       | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
 | Week 3 | 3/21 |   친구 네트워크    | https://www.acmicpc.net/problem/4195  | t.ly/Zedb |
-| Week 3 | 3/22 |        공항        | https://www.acmicpc.net/problem/10775 | t.ly/Zedb |
-| Week 3 | 3/22 |  최소비용 구하기   | https://www.acmicpc.net/problem/1916  | t.ly/Bfou |
-| Week 3 | 3/22 |      알고스팟      | https://www.acmicpc.net/problem/1216  | t.ly/N6wa |
-| Week 3 | 3/22 |        파티        | https://www.acmicpc.net/problem/1238  | t.ly/S2Si |
+| Week 4 | 3/22 |        공항        | https://www.acmicpc.net/problem/10775 | t.ly/Zedb |
+| Week 4 | 3/22 |  최소비용 구하기   | https://www.acmicpc.net/problem/1916  | t.ly/Bfou |
+| Week 4 | 3/22 |      알고스팟      | https://www.acmicpc.net/problem/1216  | t.ly/N6wa |
+| Week 4 | 3/22 |        파티        | https://www.acmicpc.net/problem/1238  | t.ly/S2Si |
 
 ## 태은
 
