@@ -12,54 +12,57 @@
 
 ## 여훈
 
-|  주차  | 날짜 |      문제이름      |                 링크                  |   풀이    |
-| :----: | :--: | :----------------: | :-----------------------------------: | :-------: |
-| Week 1 | 3/2  |     부분수열합     | https://www.acmicpc.net/problem/1182  | t.ly/pER7 |
-| Week 1 | 3/2  |      사탕게임      | https://www.acmicpc.net/problem/3085  | t.ly/kTEc |
-| Week 1 | 3/2  |        로또        | https://www.acmicpc.net/problem/6603  | t.ly/IqY9 |
-| Week 1 | 3/2  |     일곱난쟁이     | https://www.acmicpc.net/problem/2309  | t.ly/sYoj |
-| Week 1 | 3/2  |     테트로미노     | https://www.acmicpc.net/problem/14500 | t.ly/sz12 |
-| Week 1 | 3/2  |      카잉달력      | https://www.acmicpc.net/problem/6064  | t.ly/cV3I |
-| Week 1 | 3/3  |         AC         | https://www.acmicpc.net/problem/5430  | t.ly/EbaF |
-| Week 1 | 3/3  |      치킨배달      | https://www.acmicpc.net/problem/15686 | t.ly/Fa8M |
-| Week 1 | 3/4  |      좋은수열      | https://www.acmicpc.net/problem/2661  | t.ly/DC8U |
-| Week 1 | 3/4  |       가로수       | https://www.acmicpc.net/problem/2485  | t.ly/uba6 |
-| Week 1 | 3/4  |   소수의 연속합    | https://www.acmicpc.net/problem/1644  | t.ly/JZkL |
-| Week 1 | 3/5  |  골드바흐의 추축   | https://www.acmicpc.net/problem/6588  | t.ly/QJP1 |
-| Week 1 | 3/5  |    환상의 짝꿍     | https://www.acmicpc.net/problem/15711 | t.ly/33kX |
-| Week 1 | 3/5  |     제곱ㄴㄴ수     | https://www.acmicpc.net/problem/1016  | t.ly/KjaC |
-| Week 1 | 3/5  | 벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206  | t.ly/X3hc |
-| Week 1 | 3/6  |       토마토       | https://www.acmicpc.net/problem/7576  | t.ly/oExI |
-| Week 1 | 3/6  |      토마토2       | https://www.acmicpc.net/problem/7569  | t.ly/hcq7 |
-| Week 1 | 3/7  |    텀 프로젝트     | https://www.acmicpc.net/problem/9466  | t.ly/hFuI |
-| Week 1 | 3/7  |     영역구하기     | https://www.acmicpc.net/problem/2583  | t.ly/4uI6 |
-| Week 2 | 3/8  |        치즈        | https://www.acmicpc.net/problem/2636  | t.ly/GEHa |
-| Week 2 | 3/8  |       동전1        | https://www.acmicpc.net/problem/2293  | t.ly/OR2g |
-| Week 2 | 3/8  |        로프        | https://www.acmicpc.net/problem/2217  | t.ly/sGwG |
-| Week 2 | 3/9  |       부등호       | https://www.acmicpc.net/problem/2529  | t.ly/NiN7 |
-| Week 2 | 3/9  |    나무 자르기     | https://www.acmicpc.net/problem/2805  | t.ly/OEZy |
-| Week 2 | 3/10 |    랜선 자르기     | https://www.acmicpc.net/problem/1654  | t.ly/Zjqa |
-| Week 2 | 3/10 |        예산        | https://www.acmicpc.net/problem/2512  | t.ly/4t7s |
-| Week 2 | 3/11 |   카드 정렬하기    | https://www.acmicpc.net/problem/1715  | t.ly/hFV9 |
-| Week 2 | 3/11 |      보석도둑      | https://www.acmicpc.net/problem/1202  | t.ly/9orS |
-| Week 2 | 3/11 |    공유기 설치     | https://www.acmicpc.net/problem/2512  | t.ly/8nsV |
-| Week 2 | 3/12 |       알파벳       | https://www.acmicpc.net/problem/1987  | t.ly/4guq |
-| Week 2 | 3/13 |  MooTube (Silver)  | https://www.acmicpc.net/problem/15591 | t.ly/4t7s |
-| Week 2 | 3/13 |    로봇 청소기     | https://www.acmicpc.net/problem/14503 | t.ly/wCJU |
-| Week 2 | 3/14 |     연료채우기     | https://www.acmicpc.net/problem/1826  | t.ly/V64t |
-| Week 2 | 3/14 |      촌수계산      | https://www.acmicpc.net/problem/2644  | t.ly/ulaa |
-| Week 3 | 3/15 |       주유소       | https://www.acmicpc.net/problem/13305 | t.ly/NWuT |
-| Week 3 | 3/17 |      중량제한      | https://www.acmicpc.net/problem/1939  | t.ly/yL05 |
-| Week 3 | 3/17 |      입국심사      | https://www.acmicpc.net/problem/3079  | t.ly/oH72 |
-| Week 3 | 3/18 |        점프        | https://www.acmicpc.net/problem/1890  | t.ly/E1eQ |
-| Week 3 | 3/19 |     내리막 길      | https://www.acmicpc.net/problem/1520  | t.ly/Up88 |
-| Week 3 | 3/19 |      여행가자      | https://www.acmicpc.net/problem/1976  | t.ly/M55Y |
-| Week 3 | 3/19 |       친구비       | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
-| Week 3 | 3/21 |   친구 네트워크    | https://www.acmicpc.net/problem/4195  | t.ly/Zedb |
-| Week 4 | 3/22 |        공항        | https://www.acmicpc.net/problem/10775 | t.ly/Zedb |
-| Week 4 | 3/22 |  최소비용 구하기   | https://www.acmicpc.net/problem/1916  | t.ly/Bfou |
-| Week 4 | 3/22 |      알고스팟      | https://www.acmicpc.net/problem/1216  | t.ly/N6wa |
-| Week 4 | 3/22 |        파티        | https://www.acmicpc.net/problem/1238  | t.ly/S2Si |
+|  주차  | 날짜 |         문제이름          |                 링크                  |   풀이    |
+| :----: | :--: | :-----------------------: | :-----------------------------------: | :-------: |
+| Week 1 | 3/2  |        부분수열합         | https://www.acmicpc.net/problem/1182  | t.ly/pER7 |
+| Week 1 | 3/2  |         사탕게임          | https://www.acmicpc.net/problem/3085  | t.ly/kTEc |
+| Week 1 | 3/2  |           로또            | https://www.acmicpc.net/problem/6603  | t.ly/IqY9 |
+| Week 1 | 3/2  |        일곱난쟁이         | https://www.acmicpc.net/problem/2309  | t.ly/sYoj |
+| Week 1 | 3/2  |        테트로미노         | https://www.acmicpc.net/problem/14500 | t.ly/sz12 |
+| Week 1 | 3/2  |         카잉달력          | https://www.acmicpc.net/problem/6064  | t.ly/cV3I |
+| Week 1 | 3/3  |            AC             | https://www.acmicpc.net/problem/5430  | t.ly/EbaF |
+| Week 1 | 3/3  |         치킨배달          | https://www.acmicpc.net/problem/15686 | t.ly/Fa8M |
+| Week 1 | 3/4  |         좋은수열          | https://www.acmicpc.net/problem/2661  | t.ly/DC8U |
+| Week 1 | 3/4  |          가로수           | https://www.acmicpc.net/problem/2485  | t.ly/uba6 |
+| Week 1 | 3/4  |       소수의 연속합       | https://www.acmicpc.net/problem/1644  | t.ly/JZkL |
+| Week 1 | 3/5  |      골드바흐의 추축      | https://www.acmicpc.net/problem/6588  | t.ly/QJP1 |
+| Week 1 | 3/5  |        환상의 짝꿍        | https://www.acmicpc.net/problem/15711 | t.ly/33kX |
+| Week 1 | 3/5  |        제곱ㄴㄴ수         | https://www.acmicpc.net/problem/1016  | t.ly/KjaC |
+| Week 1 | 3/5  |    벽 부수고 이동하기     | https://www.acmicpc.net/problem/2206  | t.ly/X3hc |
+| Week 1 | 3/6  |          토마토           | https://www.acmicpc.net/problem/7576  | t.ly/oExI |
+| Week 1 | 3/6  |          토마토2          | https://www.acmicpc.net/problem/7569  | t.ly/hcq7 |
+| Week 1 | 3/7  |        텀 프로젝트        | https://www.acmicpc.net/problem/9466  | t.ly/hFuI |
+| Week 1 | 3/7  |        영역구하기         | https://www.acmicpc.net/problem/2583  | t.ly/4uI6 |
+| Week 2 | 3/8  |           치즈            | https://www.acmicpc.net/problem/2636  | t.ly/GEHa |
+| Week 2 | 3/8  |           동전1           | https://www.acmicpc.net/problem/2293  | t.ly/OR2g |
+| Week 2 | 3/8  |           로프            | https://www.acmicpc.net/problem/2217  | t.ly/sGwG |
+| Week 2 | 3/9  |          부등호           | https://www.acmicpc.net/problem/2529  | t.ly/NiN7 |
+| Week 2 | 3/9  |        나무 자르기        | https://www.acmicpc.net/problem/2805  | t.ly/OEZy |
+| Week 2 | 3/10 |        랜선 자르기        | https://www.acmicpc.net/problem/1654  | t.ly/Zjqa |
+| Week 2 | 3/10 |           예산            | https://www.acmicpc.net/problem/2512  | t.ly/4t7s |
+| Week 2 | 3/11 |       카드 정렬하기       | https://www.acmicpc.net/problem/1715  | t.ly/hFV9 |
+| Week 2 | 3/11 |         보석도둑          | https://www.acmicpc.net/problem/1202  | t.ly/9orS |
+| Week 2 | 3/11 |        공유기 설치        | https://www.acmicpc.net/problem/2512  | t.ly/8nsV |
+| Week 2 | 3/12 |          알파벳           | https://www.acmicpc.net/problem/1987  | t.ly/4guq |
+| Week 2 | 3/13 |     MooTube (Silver)      | https://www.acmicpc.net/problem/15591 | t.ly/4t7s |
+| Week 2 | 3/13 |        로봇 청소기        | https://www.acmicpc.net/problem/14503 | t.ly/wCJU |
+| Week 2 | 3/14 |        연료채우기         | https://www.acmicpc.net/problem/1826  | t.ly/V64t |
+| Week 2 | 3/14 |         촌수계산          | https://www.acmicpc.net/problem/2644  | t.ly/ulaa |
+| Week 3 | 3/15 |          주유소           | https://www.acmicpc.net/problem/13305 | t.ly/NWuT |
+| Week 3 | 3/17 |         중량제한          | https://www.acmicpc.net/problem/1939  | t.ly/yL05 |
+| Week 3 | 3/17 |         입국심사          | https://www.acmicpc.net/problem/3079  | t.ly/oH72 |
+| Week 3 | 3/18 |           점프            | https://www.acmicpc.net/problem/1890  | t.ly/E1eQ |
+| Week 3 | 3/19 |         내리막 길         | https://www.acmicpc.net/problem/1520  | t.ly/Up88 |
+| Week 3 | 3/19 |         여행가자          | https://www.acmicpc.net/problem/1976  | t.ly/M55Y |
+| Week 3 | 3/19 |          친구비           | https://www.acmicpc.net/problem/16562 | t.ly/PQpy |
+| Week 3 | 3/21 |       친구 네트워크       | https://www.acmicpc.net/problem/4195  | t.ly/Zedb |
+| Week 4 | 3/22 |           공항            | https://www.acmicpc.net/problem/10775 | t.ly/Zedb |
+| Week 4 | 3/22 |      최소비용 구하기      | https://www.acmicpc.net/problem/1916  | t.ly/Bfou |
+| Week 4 | 3/22 |         알고스팟          | https://www.acmicpc.net/problem/1216  | t.ly/N6wa |
+| Week 4 | 3/22 |           파티            | https://www.acmicpc.net/problem/1238  | t.ly/S2Si |
+| Week 4 | 3/23 | 녹생 옷 입은 애가 젤다지? | https://www.acmicpc.net/problem/4485  | t.ly/Tt4F |
+| Week 4 | 3/23 |      특정한 최단경로      | https://www.acmicpc.net/problem/1504  | t.ly/QeDP |
+| Week 4 | 3/23 |     가장 큰 정사각형      | https://www.acmicpc.net/problem/1915  | t.ly/v9sW |
 
 ## 태은
 
