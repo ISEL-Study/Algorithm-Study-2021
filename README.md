@@ -67,6 +67,10 @@
 | Week 4 | 3/25 |         플로이드          | https://www.acmicpc.net/problem/11404 | t.ly/qmdY |
 | Week 4 | 3/26 |           저울            | https://www.acmicpc.net/problem/10159 | t.ly/DmKI |
 | Week 4 | 3/26 |         경로찾기          | https://www.acmicpc.net/problem/11403 | t.ly/ZpC9 |
+| Week 4 | 3/27 |           역사            | https://www.acmicpc.net/problem/1613  | t.ly/PtZ6 |
+| Week 4 | 3/27 |      도시 분할 계획       | https://www.acmicpc.net/problem/1647  | t.ly/yM8l |
+| Week 4 | 3/27 |         행성터널          | https://www.acmicpc.net/problem/2887  | t.ly/ozr2 |
+| Week 4 | 3/27 |         ACM Craft         | https://www.acmicpc.net/problem/1005  | t.ly/FC9k |
 
 ## 태은
 
