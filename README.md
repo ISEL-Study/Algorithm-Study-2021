@@ -148,5 +148,6 @@
 | Week 3 | 3/21 |       14888번: 연산자 끼워넣기        |          https://www.acmicpc.net/problem/14888           | 업데이트 예정 |
 | Week 4 | 3/23 |        프로그래머스: 순위 검색        | https://programmers.co.kr/learn/courses/30/lessons/72412 | 업데이트 예정 |
 | Week 4 | 3/23 |       프로그래머스: 오픈채팅방        | https://programmers.co.kr/learn/courses/30/lessons/42888 | 업데이트 예정 |
-##인선
-|  주차  | 날짜 |         문제이름          |                 링크                  |  풀이   |
+| Week 5 | 3/29 |       프로그래머스: 캐시        | https://programmers.co.kr/learn/courses/30/lessons/17680 | 업데이트 예정 |
+| Week 5 | 3/29 |       프로그래머스: 방금그곡        | https://programmers.co.kr/learn/courses/30/lessons/17683 | 업데이트 예정 |
+| Week 5 | 3/29 |       프로그래머스: 파일명 정렬        | https://programmers.co.kr/learn/courses/30/lessons/17686 | 업데이트 예정 |
