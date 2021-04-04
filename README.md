@@ -75,6 +75,9 @@
 | Week 5 | 4/3  |        트리의 지름        | https://www.acmicpc.net/problem/1976  | t.ly/N70X |
 | Week 5 | 4/3  |           물통            | https://www.acmicpc.net/problem/14867 | t.ly/iBg5 |
 | Week 5 | 4/3  |       네트워크 연결       | https://www.acmicpc.net/problem/1922  | t.ly/IMh2 |
+| Week 5 | 4/4  |       후위 표기식2        | https://www.acmicpc.net/problem/1935  | t.ly/3nB1 |
+| Week 5 | 4/4  |         쇠막대기          | https://www.acmicpc.net/problem/10799 | t.ly/97NH |
+| Week 5 | 4/4  |       풍선 터뜨리기       | https://www.acmicpc.net/problem/2346  | t.ly/TwON |
 
 ## 태은
 
@@ -158,7 +161,7 @@
 
 ## 인선
 
-|  주차  | 날짜 |     문제이름      |                 링크                 |     풀이      |
-| :----: | :--: | :---------------: | :----------------------------------: | :-----------: |
-| Week 5 | 4/3  | 9498번: 시험 성적 | https://www.acmicpc.net/problem/9498 | 업데이트 예정 |
+|  주차  | 날짜 |       문제이름       |                 링크                  |     풀이      |
+| :----: | :--: | :------------------: | :-----------------------------------: | :-----------: |
+| Week 5 | 4/3  |  9498번: 시험 성적   | https://www.acmicpc.net/problem/9498  | 업데이트 예정 |
 | Week 5 | 4/3  | 11654번: 아스키 코드 | https://www.acmicpc.net/problem/11654 | 업데이트 예정 |
