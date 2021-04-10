@@ -170,6 +170,8 @@
 | Week 5 | 3/29 |          프로그래머스: 캐시           | https://programmers.co.kr/learn/courses/30/lessons/17680 | 업데이트 예정 |
 | Week 5 | 3/29 |        프로그래머스: 방금그곡         | https://programmers.co.kr/learn/courses/30/lessons/17683 | 업데이트 예정 |
 | Week 5 | 3/29 |       프로그래머스: 파일명 정렬       | https://programmers.co.kr/learn/courses/30/lessons/17686 | 업데이트 예정 |
+| Week 6 | 4/10 |       1707번:  이분 그래프     | https://www.acmicpc.net/problem/1707 | 업데이트 예정 |
+| Week 6 | 4/10 |       2667번: 단지번호붙이기       | https://www.acmicpc.net/problem/2667 | 업데이트 예정 |
 
 ## 인선
 
