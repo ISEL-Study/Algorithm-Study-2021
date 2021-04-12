@@ -174,6 +174,7 @@
 | Week 6 | 4/10 |       2667번: 단지번호붙이기       | https://www.acmicpc.net/problem/2667 | 업데이트 예정 |
 | Week 7 | 4/13 |       2178번: 미로 탐색       | https://www.acmicpc.net/problem/2178 | 업데이트 예정 |
 | Week 7 | 4/13 |       7576번: 토마토       | https://www.acmicpc.net/problem/7576 | 업데이트 예정 |
+| Week 7 | 4/13 |       7562번: 나이트의 이동       | https://www.acmicpc.net/problem/7562 | 업데이트 예정 |
 
 
 ## 인선
