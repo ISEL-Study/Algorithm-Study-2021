@@ -175,6 +175,7 @@
 | Week 7 | 4/13 |       2178번: 미로 탐색       | https://www.acmicpc.net/problem/2178 | 업데이트 예정 |
 | Week 7 | 4/13 |       7576번: 토마토       | https://www.acmicpc.net/problem/7576 | 업데이트 예정 |
 | Week 7 | 4/13 |       7562번: 나이트의 이동       | https://www.acmicpc.net/problem/7562 | 업데이트 예정 |
+| Week 7 | 4/14 |       프로그래머스: 스킬트리       | https://programmers.co.kr/learn/courses/30/lessons/49993 | 업데이트 예정 |
 
 
 ## 인선
