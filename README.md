@@ -90,6 +90,14 @@
 | Week 6 | 4/10 |          회전초밥           | https://www.acmicpc.net/problem/15961 | t.ly/OtjV |
 | Week 6 | 4/10 |           부분합            | https://www.acmicpc.net/problem/1806  | t.ly/zQsS |
 | Week 6 | 4/10 |     같이 눈사람 만들래      | https://www.acmicpc.net/problem/20366 | t.ly/4NLx |
+| Week 7 | 4/13 |            시각             | https://www.acmicpc.net/problem/18312 |   없음    |
+| Week 7 | 4/13 | 한윤정이 이탈리아에 가서... | https://www.acmicpc.net/problem/2422  | t.ly/R66S |
+| Week 7 | 4/13 |        Four Squares         | https://www.acmicpc.net/problem/17626 | t.ly/pQce |
+| Week 7 | 4/14 |          카드놓기           | https://www.acmicpc.net/problem/20366 | t.ly/6L6I |
+| Week 7 | 4/15 |       큰 수 구성하기        | https://www.acmicpc.net/problem/18511 |   없음    |
+| Week 7 | 4/15 |     다리를 지나는 트럭      |               t.ly/3bCj               | t.ly/NG24 |
+| Week 7 | 4/16 |      모두 0으로 만들기      |               t.ly/Ta8g               | t.ly/WhQx |
+| Week 7 | 4/16 |          기능개발           |               t.ly/S8vW               | t.ly/1W6x |
 
 ## 태은
 
@@ -170,13 +178,12 @@
 | Week 5 | 3/29 |          프로그래머스: 캐시           | https://programmers.co.kr/learn/courses/30/lessons/17680 | 업데이트 예정 |
 | Week 5 | 3/29 |        프로그래머스: 방금그곡         | https://programmers.co.kr/learn/courses/30/lessons/17683 | 업데이트 예정 |
 | Week 5 | 3/29 |       프로그래머스: 파일명 정렬       | https://programmers.co.kr/learn/courses/30/lessons/17686 | 업데이트 예정 |
-| Week 6 | 4/10 |       1707번:  이분 그래프     | https://www.acmicpc.net/problem/1707 | 업데이트 예정 |
-| Week 6 | 4/10 |       2667번: 단지번호붙이기       | https://www.acmicpc.net/problem/2667 | 업데이트 예정 |
-| Week 7 | 4/13 |       2178번: 미로 탐색       | https://www.acmicpc.net/problem/2178 | 업데이트 예정 |
-| Week 7 | 4/13 |       7576번: 토마토       | https://www.acmicpc.net/problem/7576 | 업데이트 예정 |
-| Week 7 | 4/13 |       7562번: 나이트의 이동       | https://www.acmicpc.net/problem/7562 | 업데이트 예정 |
-| Week 7 | 4/14 |       프로그래머스: 스킬트리       | https://programmers.co.kr/learn/courses/30/lessons/49993 | 업데이트 예정 |
-
+| Week 6 | 4/10 |          1707번: 이분 그래프          |           https://www.acmicpc.net/problem/1707           | 업데이트 예정 |
+| Week 6 | 4/10 |        2667번: 단지번호붙이기         |           https://www.acmicpc.net/problem/2667           | 업데이트 예정 |
+| Week 7 | 4/13 |           2178번: 미로 탐색           |           https://www.acmicpc.net/problem/2178           | 업데이트 예정 |
+| Week 7 | 4/13 |            7576번: 토마토             |           https://www.acmicpc.net/problem/7576           | 업데이트 예정 |
+| Week 7 | 4/13 |         7562번: 나이트의 이동         |           https://www.acmicpc.net/problem/7562           | 업데이트 예정 |
+| Week 7 | 4/14 |        프로그래머스: 스킬트리         | https://programmers.co.kr/learn/courses/30/lessons/49993 | 업데이트 예정 |
 
 ## 인선
 
