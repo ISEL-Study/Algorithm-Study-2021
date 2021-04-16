@@ -176,7 +176,8 @@
 | Week 7 | 4/13 |       7576번: 토마토       | https://www.acmicpc.net/problem/7576 | 업데이트 예정 |
 | Week 7 | 4/13 |       7562번: 나이트의 이동       | https://www.acmicpc.net/problem/7562 | 업데이트 예정 |
 | Week 7 | 4/14 |       프로그래머스: 스킬트리       | https://programmers.co.kr/learn/courses/30/lessons/49993 | 업데이트 예정 |
-
+| Week 7 | 4/16 |       1697번: 숨바꼭질       | https://www.acmicpc.net/problem/1697 | 업데이트 예정 |
+| Week 7 | 4/16 |       13913번: 숨바꼭질4       | https://www.acmicpc.net/problem/13913 | 업데이트 예정 |
 
 ## 인선
 
