@@ -187,6 +187,8 @@
 | Week 7 | 4/16 |           1697번: 숨바꼭질            |           https://www.acmicpc.net/problem/1697           | 업데이트 예정 |
 | Week 7 | 4/16 |          13913번: 숨바꼭질4           |          https://www.acmicpc.net/problem/13913           | 업데이트 예정 |
 | Week 7 | 4/16 |          16935번: 배열 돌리기3           |          https://www.acmicpc.net/problem/16935           | 업데이트 예정 |
+| Week 7 | 4/18 |          14226번: 이모티콘           |          https://www.acmicpc.net/problem/14226           | 업데이트 예정 |
+| Week 7 | 4/18 |          13549번: 숨바꼭질3           |          https://www.acmicpc.net/problem/13549           | 업데이트 예정 |
 
 
 ## 인선
