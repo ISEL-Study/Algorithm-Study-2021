@@ -128,7 +128,14 @@
 | Week 2 | 3/9  |        1037: 약수         | https://www.acmicpc.net/problem/1037  | 없을 무 |
 | Week 2 | 3/9  |      1978: 소수 찾기      | https://www.acmicpc.net/problem/1978  | 없을 무 |
 | Week 2 | 3/9  |     1929: 소수 구하기     | https://www.acmicpc.net/problem/1929  | 없을 무 |
-| Week 2 |  3/  |                           |   https://www.acmicpc.net/problem/    | 없을 무 |
+| Week 7 | 4/18 |     2839: 설탕 배달       | https://www.acmicpc.net/problem/2839  | 없을 무 |
+| Week 7 | 4/18 |     1149: RGB 거리        | https://www.acmicpc.net/problem/1149 | 없을 무 |
+| Week 7 | 4/18 |     1932: 정수 삼각형     | https://www.acmicpc.net/problem/1932 | 없을 무 |
+| Week 7 | 4/18 |     2156: 포도주 시식     | https://www.acmicpc.net/problem/2156 | 없을 무 |
+| Week 7 | 4/18 | 11053: 가장 긴 증가하는 부분 수열 | https://www.acmicpc.net/problem/11053  | 없을 무 |
+| Week 7 | 4/18 |  9251: LCS               | https://www.acmicpc.net/problem/9251    | 없을 무 |
+| Week 7 | 4/18 |  11054: 가장 긴 바이토닉 부분 수열 | https://www.acmicpc.net/problem/11054    | 없을 무 |
+
 
 ## 수은
 
