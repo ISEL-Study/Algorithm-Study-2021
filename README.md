@@ -98,44 +98,61 @@
 | Week 7 | 4/15 |     다리를 지나는 트럭      |               t.ly/3bCj               | t.ly/NG24 |
 | Week 7 | 4/16 |      모두 0으로 만들기      |               t.ly/Ta8g               | t.ly/WhQx |
 | Week 7 | 4/16 |          기능개발           |               t.ly/S8vW               | t.ly/1W6x |
+| Week 7 | 4/17 |         문자열 압축         |               t.ly/9txm               | t.ly/M2B0 |
+| Week 7 | 4/17 |          소수찾기           |               t.ly/Iv93               | t.ly/Uyua |
+| Week 7 | 4/17 |   카카오프렌즈 컬러링 북    |               t.ly/MMcH               | t.ly/x3j1 |
+| Week 7 | 4/18 |       124 나라의 숫자       |               t.ly/BFRd               |   없음    |
+| Week 7 | 4/18 |          주식 가격          |               t.ly/cq8T               |   없음    |
+| Week 8 | 4/19 |            위장             |        https://bit.ly/3dxR8yt         |   없음    |
+| Week 8 | 4/19 |         베스트 앨범         |        https://bit.ly/3angzkj         |   없음    |
+| Week 8 | 4/19 |           더 맵게           |               t.ly/GgfW               |   없음    |
+| Week 8 | 4/19 |          조이스틱           |               t.ly/4CRK               |   없음    |
+| Week 8 | 4/20 |        큰 수 만들기         |              t.ly/VnVIC               | t.ly/23nJ |
+| Week 8 | 4/20 |            카펫             |               t.ly/uUZY               | t.ly/Geww |
+| Week 8 | 4/20 |           체육복            |        https://bit.ly/2RQRwjq         | t.ly/mdkT |
+| Week 8 | 4/20 |       이중우선순위 큐       |        https://bit.ly/3tNeBkU         | t.ly/pDb6 |
+| Week 8 | 4/20 |       디스크 컨트롤러       |        https://bit.ly/2P4tIaG         | t.ly/Rmnd |
+| Week 8 | 4/20 |          구명보트           |        https://bit.ly/3aps9f5         | t.ly/fuoF |
+| Week 8 | 4/20 |          K번째 수           |        https://bit.ly/3tCzWNU         | t.ly/McF6 |
+| Week 8 | 4/20 |           H-Index           |        https://bit.ly/3sII8v7         | t.ly/cqCl |
+| Week 8 | 4/20 |         가장 큰 수          |        https://bit.ly/3tAapFh         |   없음    |
 
 ## 태은
 
-|  주차  | 날짜 |         문제이름          |                 링크                  |  풀이   |
-| :----: | :--: | :-----------------------: | :-----------------------------------: | :-----: |
-| Week 1 | 3/3  |       1920: 수 찾기       | https://www.acmicpc.net/problem/1920  | 없을 무 |
-| Week 1 | 3/3  |     2750: 수 정렬하기     | https://www.acmicpc.net/problem/2750  | 없을 무 |
-| Week 1 | 3/3  |    2751: 수 정렬하기 2    | https://www.acmicpc.net/problem/2751  | 없을 무 |
-| Week 1 | 3/3  |   10989: 수 정렬하기 3    | https://www.acmicpc.net/problem/10989 | 없을 무 |
-| Week 1 | 3/3  |     10815: 숫자 카드      | https://www.acmicpc.net/problem/10815 | 없을 무 |
-| Week 1 | 3/3  |        10828: 스택        | https://www.acmicpc.net/problem/10828 | 없을 무 |
-| Week 1 | 3/3  |         10845: 큐         | https://www.acmicpc.net/problem/10845 | 없을 무 |
-| Week 1 | 3/3  |         10866: 뎈         | https://www.acmicpc.net/problem/10866 | 없을 무 |
-| Week 1 | 3/4  |       1406: 에디터        | https://www.acmicpc.net/problem/1406  | 없을 무 |
-| Week 1 | 3/4  |        1026: 보물         | https://www.acmicpc.net/problem/1026  | 없을 무 |
-| Week 1 | 3/4  |  11651: 좌표 정렬하기 2   | https://www.acmicpc.net/problem/11651 | 없을 무 |
-| Week 1 | 3/6  | 10867: 중복 빼고 정렬하기 | https://www.acmicpc.net/problem/10867 | 없을 무 |
-| Week 1 | 3/6  |    10816: 숫자 카드 2     | https://www.acmicpc.net/problem/10816 | 없을 무 |
-| Week 1 | 3/6  |        9012: 괄호         | https://www.acmicpc.net/problem/9012  | 없을 무 |
-| Week 1 | 3/6  |      1874: 스택 수열      | https://www.acmicpc.net/problem/1874  | 없을 무 |
-| Week 1 | 3/6  |    1158: 요세푸스 문제    | https://www.acmicpc.net/problem/1158  | 없을 무 |
-| Week 1 | 3/6  |      1966: 프린터 큐      | https://www.acmicpc.net/problem/1966  | 없을 무 |
-| Week 2 | 3/7  |         5430: AC          | https://www.acmicpc.net/problem/5430  | 없을 무 |
-| Week 2 | 3/7  |        6603: 로또         | https://www.acmicpc.net/problem/6603  | 없을 무 |
-| Week 2 | 3/8  |    1182: 부분수열의 합    | https://www.acmicpc.net/problem/1182  | 없을 무 |
-| Week 2 | 3/8  |   9095: 1, 2, 3 더하기    | https://www.acmicpc.net/problem/9095  | 없을 무 |
-| Week 2 | 3/9  |       9663: N-Queen       | https://www.acmicpc.net/problem/9663  | 없을 무 |
-| Week 2 | 3/9  |        1037: 약수         | https://www.acmicpc.net/problem/1037  | 없을 무 |
-| Week 2 | 3/9  |      1978: 소수 찾기      | https://www.acmicpc.net/problem/1978  | 없을 무 |
-| Week 2 | 3/9  |     1929: 소수 구하기     | https://www.acmicpc.net/problem/1929  | 없을 무 |
-| Week 7 | 4/18 |     2839: 설탕 배달       | https://www.acmicpc.net/problem/2839  | 없을 무 |
-| Week 7 | 4/18 |     1149: RGB 거리        | https://www.acmicpc.net/problem/1149 | 없을 무 |
-| Week 7 | 4/18 |     1932: 정수 삼각형     | https://www.acmicpc.net/problem/1932 | 없을 무 |
-| Week 7 | 4/18 |     2156: 포도주 시식     | https://www.acmicpc.net/problem/2156 | 없을 무 |
-| Week 7 | 4/18 | 11053: 가장 긴 증가하는 부분 수열 | https://www.acmicpc.net/problem/11053  | 없을 무 |
-| Week 7 | 4/18 |  9251: LCS               | https://www.acmicpc.net/problem/9251    | 없을 무 |
-| Week 7 | 4/18 |  11054: 가장 긴 바이토닉 부분 수열 | https://www.acmicpc.net/problem/11054    | 없을 무 |
-
+|  주차  | 날짜 |             문제이름              |                 링크                  |  풀이   |
+| :----: | :--: | :-------------------------------: | :-----------------------------------: | :-----: |
+| Week 1 | 3/3  |           1920: 수 찾기           | https://www.acmicpc.net/problem/1920  | 없을 무 |
+| Week 1 | 3/3  |         2750: 수 정렬하기         | https://www.acmicpc.net/problem/2750  | 없을 무 |
+| Week 1 | 3/3  |        2751: 수 정렬하기 2        | https://www.acmicpc.net/problem/2751  | 없을 무 |
+| Week 1 | 3/3  |       10989: 수 정렬하기 3        | https://www.acmicpc.net/problem/10989 | 없을 무 |
+| Week 1 | 3/3  |         10815: 숫자 카드          | https://www.acmicpc.net/problem/10815 | 없을 무 |
+| Week 1 | 3/3  |            10828: 스택            | https://www.acmicpc.net/problem/10828 | 없을 무 |
+| Week 1 | 3/3  |             10845: 큐             | https://www.acmicpc.net/problem/10845 | 없을 무 |
+| Week 1 | 3/3  |             10866: 뎈             | https://www.acmicpc.net/problem/10866 | 없을 무 |
+| Week 1 | 3/4  |           1406: 에디터            | https://www.acmicpc.net/problem/1406  | 없을 무 |
+| Week 1 | 3/4  |            1026: 보물             | https://www.acmicpc.net/problem/1026  | 없을 무 |
+| Week 1 | 3/4  |      11651: 좌표 정렬하기 2       | https://www.acmicpc.net/problem/11651 | 없을 무 |
+| Week 1 | 3/6  |     10867: 중복 빼고 정렬하기     | https://www.acmicpc.net/problem/10867 | 없을 무 |
+| Week 1 | 3/6  |        10816: 숫자 카드 2         | https://www.acmicpc.net/problem/10816 | 없을 무 |
+| Week 1 | 3/6  |            9012: 괄호             | https://www.acmicpc.net/problem/9012  | 없을 무 |
+| Week 1 | 3/6  |          1874: 스택 수열          | https://www.acmicpc.net/problem/1874  | 없을 무 |
+| Week 1 | 3/6  |        1158: 요세푸스 문제        | https://www.acmicpc.net/problem/1158  | 없을 무 |
+| Week 1 | 3/6  |          1966: 프린터 큐          | https://www.acmicpc.net/problem/1966  | 없을 무 |
+| Week 2 | 3/7  |             5430: AC              | https://www.acmicpc.net/problem/5430  | 없을 무 |
+| Week 2 | 3/7  |            6603: 로또             | https://www.acmicpc.net/problem/6603  | 없을 무 |
+| Week 2 | 3/8  |        1182: 부분수열의 합        | https://www.acmicpc.net/problem/1182  | 없을 무 |
+| Week 2 | 3/8  |       9095: 1, 2, 3 더하기        | https://www.acmicpc.net/problem/9095  | 없을 무 |
+| Week 2 | 3/9  |           9663: N-Queen           | https://www.acmicpc.net/problem/9663  | 없을 무 |
+| Week 2 | 3/9  |            1037: 약수             | https://www.acmicpc.net/problem/1037  | 없을 무 |
+| Week 2 | 3/9  |          1978: 소수 찾기          | https://www.acmicpc.net/problem/1978  | 없을 무 |
+| Week 2 | 3/9  |         1929: 소수 구하기         | https://www.acmicpc.net/problem/1929  | 없을 무 |
+| Week 7 | 4/18 |          2839: 설탕 배달          | https://www.acmicpc.net/problem/2839  | 없을 무 |
+| Week 7 | 4/18 |          1149: RGB 거리           | https://www.acmicpc.net/problem/1149  | 없을 무 |
+| Week 7 | 4/18 |         1932: 정수 삼각형         | https://www.acmicpc.net/problem/1932  | 없을 무 |
+| Week 7 | 4/18 |         2156: 포도주 시식         | https://www.acmicpc.net/problem/2156  | 없을 무 |
+| Week 7 | 4/18 | 11053: 가장 긴 증가하는 부분 수열 | https://www.acmicpc.net/problem/11053 | 없을 무 |
+| Week 7 | 4/18 |             9251: LCS             | https://www.acmicpc.net/problem/9251  | 없을 무 |
+| Week 7 | 4/18 | 11054: 가장 긴 바이토닉 부분 수열 | https://www.acmicpc.net/problem/11054 | 없을 무 |
 
 ## 수은
 
@@ -193,11 +210,10 @@
 | Week 7 | 4/14 |        프로그래머스: 스킬트리         | https://programmers.co.kr/learn/courses/30/lessons/49993 | 업데이트 예정 |
 | Week 7 | 4/16 |           1697번: 숨바꼭질            |           https://www.acmicpc.net/problem/1697           | 업데이트 예정 |
 | Week 7 | 4/16 |          13913번: 숨바꼭질4           |          https://www.acmicpc.net/problem/13913           | 업데이트 예정 |
-| Week 7 | 4/16 |          16935번: 배열 돌리기3           |          https://www.acmicpc.net/problem/16935           | 업데이트 예정 |
-| Week 7 | 4/18 |          14226번: 이모티콘           |          https://www.acmicpc.net/problem/14226           | 업데이트 예정 |
+| Week 7 | 4/16 |         16935번: 배열 돌리기3         |          https://www.acmicpc.net/problem/16935           | 업데이트 예정 |
+| Week 7 | 4/18 |           14226번: 이모티콘           |          https://www.acmicpc.net/problem/14226           | 업데이트 예정 |
 | Week 7 | 4/18 |          13549번: 숨바꼭질3           |          https://www.acmicpc.net/problem/13549           | 업데이트 예정 |
-| Week 8 | 4/19 |          1261번: 알고스팟           |          https://www.acmicpc.net/problem/1261           | 업데이트 예정 |
-
+| Week 8 | 4/19 |           1261번: 알고스팟            |           https://www.acmicpc.net/problem/1261           | 업데이트 예정 |
 
 ## 인선
 
