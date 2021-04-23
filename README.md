@@ -214,6 +214,9 @@
 | Week 7 | 4/18 |           14226번: 이모티콘           |          https://www.acmicpc.net/problem/14226           | 업데이트 예정 |
 | Week 7 | 4/18 |          13549번: 숨바꼭질3           |          https://www.acmicpc.net/problem/13549           | 업데이트 예정 |
 | Week 8 | 4/19 |           1261번: 알고스팟            |           https://www.acmicpc.net/problem/1261           | 업데이트 예정 |
+| Week 8 | 4/23 |   프로그래머스: 보석 쇼핑  |           https://programmers.co.kr/learn/courses/30/lessons/67258           | 업데이트 예정 |
+| Week 8 | 4/23 |   프로그래머스: 불량 사용자  |           https://programmers.co.kr/learn/courses/30/lessons/64064           | 업데이트 예정 |
+
 
 ## 인선
 
