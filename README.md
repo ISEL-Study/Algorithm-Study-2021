@@ -116,6 +116,14 @@
 | Week 8 | 4/20 |          K번째 수           |        https://bit.ly/3tCzWNU         | t.ly/McF6 |
 | Week 8 | 4/20 |           H-Index           |        https://bit.ly/3sII8v7         | t.ly/cqCl |
 | Week 8 | 4/20 |         가장 큰 수          |        https://bit.ly/3tAapFh         |   없음    |
+| Week 8 | 4/21 |           등굣길            |               t.ly/s06U               |   없음    |
+| Week 8 | 4/21 |          타켓넘버           |               t.ly/FA0E               |   없음    |
+| Week 8 | 4/21 |          네트워크           |               t.ly/ljjl               |   없음    |
+| Week 8 | 4/22 |          단어 변환          |               t.ly/kqiL               |   없음    |
+| Week 8 | 4/22 |          여행 경로          |               t.ly/655d               |   없음    |
+| Week 8 | 4/22 |          입국심사           |               t.ly/MYvw               |   없음    |
+| Week 8 | 4/23 |        가장 먼 노드         |               t.ly/6qsq               |   없음    |
+| Week 8 | 4/23 |            순위             |               t.ly/lJ0j               |   없음    |
 
 ## 태은
 
@@ -214,9 +222,8 @@
 | Week 7 | 4/18 |           14226번: 이모티콘           |          https://www.acmicpc.net/problem/14226           | 업데이트 예정 |
 | Week 7 | 4/18 |          13549번: 숨바꼭질3           |          https://www.acmicpc.net/problem/13549           | 업데이트 예정 |
 | Week 8 | 4/19 |           1261번: 알고스팟            |           https://www.acmicpc.net/problem/1261           | 업데이트 예정 |
-| Week 8 | 4/23 |   프로그래머스: 보석 쇼핑  |           https://programmers.co.kr/learn/courses/30/lessons/67258           | 업데이트 예정 |
-| Week 8 | 4/23 |   프로그래머스: 불량 사용자  |           https://programmers.co.kr/learn/courses/30/lessons/64064           | 업데이트 예정 |
-
+| Week 8 | 4/23 |        프로그래머스: 보석 쇼핑        | https://programmers.co.kr/learn/courses/30/lessons/67258 | 업데이트 예정 |
+| Week 8 | 4/23 |       프로그래머스: 불량 사용자       | https://programmers.co.kr/learn/courses/30/lessons/64064 | 업데이트 예정 |
 
 ## 인선
 
