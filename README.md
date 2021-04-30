@@ -225,6 +225,9 @@
 | Week 8 | 4/23 |        프로그래머스: 보석 쇼핑        | https://programmers.co.kr/learn/courses/30/lessons/67258 | 업데이트 예정 |
 | Week 8 | 4/23 |       프로그래머스: 불량 사용자       | https://programmers.co.kr/learn/courses/30/lessons/64064 | 업데이트 예정 |
 | Week 9 | 4/28 |        14225번: 부분수열의 합      | https://www.acmicpc.net/problem/14225 | 업데이트 예정 |
+| Week 9 | 4/30 |        16198번: 에너지 모으기      | https://www.acmicpc.net/problem/16198 | 업데이트 예정 |
+| Week 9 | 4/30 |        16197번: 두 동전      | https://www.acmicpc.net/problem/16197 | 업데이트 예정 |
+| Week 9 | 4/30 |        9663번: N-Queen      | https://www.acmicpc.net/problem/9663 | 업데이트 예정 |
 
 
 ## 인선
