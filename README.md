@@ -229,6 +229,7 @@
 | Week 9 | 4/30 |        16197번: 두 동전      | https://www.acmicpc.net/problem/16197 | 업데이트 예정 |
 | Week 9 | 4/30 |        9663번: N-Queen      | https://www.acmicpc.net/problem/9663 | 업데이트 예정 |
 | Week 9 | 5/1 |        1339번: 단어 수학      | https://www.acmicpc.net/problem/1339 | 업데이트 예정 |
+| Week 10 | 5/4 |        1062번: 가르침      | https://www.acmicpc.net/problem/1062 | 업데이트 예정 |
 
 
 ## 인선
